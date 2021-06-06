@@ -1,0 +1,5 @@
+Adafruit-DHT
+matplotlib
+numpy
+csv
+
